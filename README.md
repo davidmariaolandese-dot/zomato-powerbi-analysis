@@ -45,14 +45,14 @@ The goal of the analysis is to transform raw restaurant data into clear business
 ### Global Overview
 ![Overview Dashboard](screenshots/dashboard-overview.png)
 
+### Restaurant Rating Analysis
+![Restaurant Rating Analysis](screenshots/restaurant-rating-analysis.png)
+
 ### Interactive Restaurant Analysis
 ![Interactive Analysis](screenshots/interactive-filter-analysis.png)
 
 ### Regional Market Analysis
 ![Regional Analysis](screenshots/regional-analysis-dubai.png)
-
-### Restaurant Rating Analysis
-![Restaurant Rating Analysis](screenshots/restaurant-rating-analysis.png)
 
 ## Repository Structure
 
